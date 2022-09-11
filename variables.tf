@@ -32,3 +32,12 @@
 #      default        = [1, 2, 3]
 #      description    = "This is a set variable"
 #  }
+
+# example map variable (type number)
+# variable "map_example" {
+#   type = "map"
+#   default = {
+#     "key1" = "value1"
+#     "key2" = "value2"
+#   }
+# }
